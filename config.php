@@ -4,7 +4,7 @@
  * Configuration for database connection
  *
  */
-
+echo "hi";
 $host       = "localhost";
 $username   = "root";
 $password   = "";
